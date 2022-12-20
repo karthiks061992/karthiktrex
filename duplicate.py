@@ -1,4 +1,4 @@
-def fun(x):
+def fun(x)
     repeated=[]
     size=len(x)
     for i in range(size):
